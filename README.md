@@ -14,8 +14,6 @@ State-of-the-art time series forecasting for PyTorch.
 
 
 ## Installation
-<details>
-<summary>PyPI</summary>
 
 Required dependencies are included in `environment.yml`.
 
